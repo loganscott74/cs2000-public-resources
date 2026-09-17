@@ -25,8 +25,8 @@ import styles from './index.module.css';
   <h3>Prof. Alvaro Monge</h3>
   <p>a.monge@northeastern.edu</p>
   <div className={styles.officeHours}>
-    <strong>Office Hours:</strong><br/>
-    TBD
+    <strong>Office Hours (in Oakland/Carnegie 201):</strong><br/>
+    Tuesdays 10:15-11:15am PT and Wednesdays 3-4pm PT, or by appointment (send email request at least 1 day prior)
   </div>
 </div>
 
@@ -74,7 +74,7 @@ import styles from './index.module.css';
 
 <div className={styles.staffCard}>
   <img src={require('@site/static/img/staff/angelina-el-moucary.jpg').default} alt="Angelina El Moucary" className={styles.staffPhoto} />
-  <h3>Angelina El Moucary</h3>
+  <h3>Angel El Moucary</h3>
   <p>elmoucary.a@northeastern.edu</p>
 </div>
 
